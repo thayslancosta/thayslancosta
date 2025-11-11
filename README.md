@@ -15,7 +15,7 @@
 
 
 ## Projetos em Destaque
-- [Spring Boot API](https://github.com/thayslancosta/myFirstSpringProject) – Aplicação desenvolvida para meus primeiros estudos com o framework Spring, focada na criação de APIs REST em Java.
+- [Spring Boot API](https://github.com/thayslancosta/universityhub) – Aplicação desenvolvida para meus primeiros estudos com o framework Spring, focada na criação de APIs REST em Java.
 - [Mini Spotify](https://github.com/thayslancosta/spotify) – Um sistema de console interativo em Java que simula funcionalidades básicas de um serviço de streaming de música, usando conceitos de POO.
 
 </div>
