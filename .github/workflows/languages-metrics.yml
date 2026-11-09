@@ -1,0 +1,35 @@
+name: Profile language metrics
+
+on:
+  schedule:
+    - cron: '21 12 * * 1' # Weekly on Mondays, UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/languages-metrics.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate and commit the languages card
+        uses: lowlighter/metrics@v3.34
+        with:
+          user: thayslancosta
+          # Public repository data is attempted with the default token.
+          # For reliable access, create an optional repository secret METRICS_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          committer_token: ${{ github.token }}
+          filename: assets/languages.svg
+          base: ''
+          template: classic
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 5
+          plugin_languages_ignored: html, css
+          output_action: commit
