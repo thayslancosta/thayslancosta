@@ -1,43 +1,31 @@
-<h1>Thayslan Costa</h1>
+# Hi, I'm Thayslan Costa 👋
 
-<p>
-  Backend developer in training, focused on Java, Spring Boot, REST APIs, and MySQL.
-</p>
+**Information Systems student at UNIFACISA | Backend & Full-stack Development**
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+I am transitioning into software development after studying Psychology and working as an English teacher. I am especially interested in building practical applications for education, combining an understanding of people and learning with software engineering.
 
-I study Information Systems at UNIFACISA and I am transitioning into software engineering after experience in Psychology and English teaching.
+### Tech stack
 
-## Projects
+- **Backend:** Java, Spring Boot, Node.js, Express, REST APIs, GraphQL
+- **Frontend:** JavaScript, React, HTML, CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB, JPA/Mongoose
+- **Tools & practices:** Git, GitHub, Docker, API documentation, collaborative development
 
-- [UniversityHub](https://github.com/thayslancosta/universityhub): Spring Boot REST API with JPA relationships, layered architecture, and MySQL.
-- [Mini Spotify](https://github.com/thayslancosta/spotify): Java console application focused on OOP concepts such as inheritance, encapsulation, and collections.
-- [My First Spring Project](https://github.com/thayslancosta/myFirstSpringProject): Spring Boot practice project for controllers, services, and dependency injection.
+### Selected projects
 
-## Current Focus
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**CorreX — frontend prototype**](https://github.com/thayslancosta/correx-frontend) | Interface for an essay review platform, currently using mock data and local storage. *Academic team project.* | React, Vite, JavaScript |
+| [**ReMatrícula**](https://github.com/thayslancosta/rema) | Prototype for managing student reenrollment at language schools. *Academic team project.* | React, JavaScript, CSS |
+| [**UniversityHub**](https://github.com/thayslancosta/universityhub) | Academic backend project exploring web APIs and relational persistence. | Java, Spring Boot, JPA |
+| [**CorreX landing page**](https://github.com/thayslancosta/landingpage-correx) | Responsive landing page concept for the CorreX platform. | HTML, CSS, JavaScript |
 
-- Backend development with Java and Spring Boot
-- SQL and database design
-- AWS Certified Cloud Practitioner (`CLF-C02`)
+I also work on **DevClass**, a collaborative academic management application built with Node.js, Express, GraphQL, MongoDB, and React. Its repository is currently private.
 
-## Languages
+### About me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayslancosta&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+My background in **Psychology** and **English language teaching** helps me approach software development with an interest in users, communication, learning, and real-world problems. I am currently seeking opportunities to grow as a software developer, especially in backend and full-stack roles.
 
-## Contact
+### Connect
 
-<p>
-  <a href="mailto:thayslan.costa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thayslan-costa-6a4536285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/thayslan-costa-6a4536285/) · [Email](mailto:thayslan.costa@gmail.com)
