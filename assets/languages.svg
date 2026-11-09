@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="178" viewBox="0 0 680 178" role="img" aria-labelledby="title desc">
+  <title id="title">Programming languages used in my repositories</title>
+  <desc id="desc">Java, JavaScript, Python, HTML, and CSS.</desc>
+  <rect x="1" y="1" width="678" height="176" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="28" y="42" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Languages in my repositories</text>
+  <text x="28" y="66" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">Selected languages across public projects · no skill ranking</text>
+  <rect x="28" y="91" width="111" height="43" rx="10" fill="#262b32" stroke="#424a55"/>
+  <circle cx="46" cy="112.5" r="6" fill="#b07219"/>
+  <text x="59" y="118" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">Java</text>
+  <rect x="149" y="91" width="150" height="43" rx="10" fill="#262b32" stroke="#424a55"/>
+  <circle cx="167" cy="112.5" r="6" fill="#f1e05a"/>
+  <text x="180" y="118" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">JavaScript</text>
+  <rect x="309" y="91" width="125" height="43" rx="10" fill="#262b32" stroke="#424a55"/>
+  <circle cx="327" cy="112.5" r="6" fill="#3572A5"/>
+  <text x="340" y="118" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">Python</text>
+  <rect x="444" y="91" width="99" height="43" rx="10" fill="#262b32" stroke="#424a55"/>
+  <circle cx="462" cy="112.5" r="6" fill="#e34c26"/>
+  <text x="475" y="118" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">HTML</text>
+  <rect x="553" y="91" width="99" height="43" rx="10" fill="#262b32" stroke="#424a55"/>
+  <circle cx="571" cy="112.5" r="6" fill="#563d7c"/>
+  <text x="584" y="118" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">CSS</text>
+  <text x="28" y="157" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="11">Static visual overview · not a percentage breakdown</text>
+</svg>
