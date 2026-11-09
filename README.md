@@ -43,7 +43,7 @@ I'm studying **Information Systems at UNIFACISA** and transitioning into softwar
 ### Languages Used in My Repositories
 
 <p align="center">
-  <img alt="Most-used GitHub repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayslancosta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="Languages used across my public repositories: Java, JavaScript, Python, HTML, and CSS" src="./assets/languages.svg" width="680" />
 </p>
 
 ### Connect With Me
