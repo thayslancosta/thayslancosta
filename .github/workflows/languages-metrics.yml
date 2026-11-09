@@ -2,7 +2,7 @@ name: Profile language metrics
 
 on:
   schedule:
-    - cron: '21 12 * * 1' # Weekly on Mondays, UTC
+    - cron: '21 12 * * 1' # Weekly on Mondays (UTC)
   workflow_dispatch:
   push:
     branches: [main]
@@ -15,14 +15,20 @@ permissions:
 jobs:
   languages:
     runs-on: ubuntu-latest
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
+      - name: Explain missing configuration
+        if: env.METRICS_TOKEN == ''
+        run: echo 'Add repository Actions secret METRICS_TOKEN (a classic personal access token with public profile access) to enable automatic updates.'
       - name: Generate and commit the languages card
+        if: env.METRICS_TOKEN != ''
         uses: lowlighter/metrics@v3.34
         with:
           user: thayslancosta
-          # Public repository data is attempted with the default token.
-          # For reliable access, create an optional repository secret METRICS_TOKEN.
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          # Read public profile/repository language data with a scopeless classic PAT.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Use the repository-scoped token only to commit the SVG.
           committer_token: ${{ github.token }}
           filename: assets/languages.svg
           base: ''
