@@ -30,6 +30,7 @@
 | Project | Overview | Technologies |
 | --- | --- | --- |
 | [**CorreX API**](https://github.com/thayslancosta/correx-api) | Spring Boot REST API for essay management and AI-assisted feedback. | Java, Spring Boot, PostgreSQL |
+| [**CorreX — integrated frontend**](https://github.com/thayslancosta/frontendCorrex) | React frontend with API integration, essay submissions and teacher review flows. *Academic team project.* | React, Vite, Axios |
 | [**DevClass**](https://github.com/thayslancosta/devclass) | Full-stack academic management app with AI-assisted feedback. | Node.js, React, GraphQL, MongoDB |
 | [**CorreX — frontend prototype**](https://github.com/thayslancosta/correx-frontend) | Essay review interface using mock data and local storage. *Academic team project.* | React, Vite, JavaScript |
 | [**ReMatrícula**](https://github.com/thayslancosta/rema) | Student reenrollment management prototype for language schools. *Academic team project.* | React, JavaScript, CSS |
