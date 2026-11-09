@@ -29,12 +29,16 @@
 
 | Project | Overview | Technologies |
 | --- | --- | --- |
+| [**CorreX API**](https://github.com/thayslancosta/correx-api) | Spring Boot REST API for essay management and AI-assisted feedback. | Java, Spring Boot, PostgreSQL |
+| [**DevClass**](https://github.com/thayslancosta/devclass) | Full-stack academic management app with AI-assisted feedback. | Node.js, React, GraphQL, MongoDB |
 | [**CorreX — frontend prototype**](https://github.com/thayslancosta/correx-frontend) | Essay review interface using mock data and local storage. *Academic team project.* | React, Vite, JavaScript |
 | [**ReMatrícula**](https://github.com/thayslancosta/rema) | Student reenrollment management prototype for language schools. *Academic team project.* | React, JavaScript, CSS |
 | [**UniversityHub**](https://github.com/thayslancosta/universityhub) | Academic backend project exploring REST APIs and relational persistence. | Java, Spring Boot, JPA |
 | [**CorreX landing page**](https://github.com/thayslancosta/landingpage-correx) | Responsive landing page concept for the CorreX platform. | HTML, CSS, JavaScript |
 
-I'm also involved in **DevClass**, a collaborative academic management app built with Node.js, Express, GraphQL, MongoDB and React. Its repository is currently private.
+DevClass is a collaborative academic management app built with Node.js, Express,
+GraphQL, MongoDB and React. Its public repository preserves the team credits and
+the collaborative commit history.
 
 ### About Me
 
